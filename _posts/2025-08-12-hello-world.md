@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, world 👋"
+title: "The Eternal Search for a Yute"
 date: 2025-08-12 10:00:00 -0400
 categories: [blog]
 tags: [intro, personal]
