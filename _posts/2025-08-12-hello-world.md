@@ -9,7 +9,7 @@ description: Kicking off my new GitHub Pages blog.
 
  test the setup.
 
-## What I’ll write about
+## Day 1s
 - Projects I’m building
 - Notes from books/papers
 - Random ideas worth saving
