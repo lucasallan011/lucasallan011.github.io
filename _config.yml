@@ -1,0 +1,13 @@
+title: Your Name
+description: Notes, essays, and experiments.
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+timezone: America/New_York
+
+# If this is a *project* site (NOT username.github.io), set baseurl to "/your-repo-name".
+# If this is username.github.io, leave baseurl empty.
+baseurl: "" 
+url: "https://YOUR-USERNAME.github.io"
